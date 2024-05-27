@@ -7,7 +7,10 @@ Se utilizo el lenguaje de programacion Python y las bibliotecas ‘pandas‘, �
 # Resultados
 Los resultados obtenidos para cada conjunto de datos fueron los siguientes:
 
+![tv](https://github.com/LuisRosado/Regresiones_2/assets/140114139/5609e25f-790d-4f6a-8353-67100300ae51)
 Figura 3: Grafica de dispersion de tvmarketing.csv.csv.
+
+![Wine](https://github.com/LuisRosado/Regresiones_2/assets/140114139/47f41bff-873a-4ea4-af5e-f1344096557a)
 Figura 4: Grafica de dispersion de winequality.csv.
 
 Conjunto de datos: Gastos de marketing y ventas
