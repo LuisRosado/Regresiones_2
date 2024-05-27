@@ -9,20 +9,22 @@ Los resultados obtenidos para cada conjunto de datos fueron los siguientes:
 
 ![tv](https://github.com/LuisRosado/Regresiones_2/assets/140114139/5609e25f-790d-4f6a-8353-67100300ae51)
 
-Figura 3: Grafica de dispersion de tvmarketing.csv.csv.
+Figura 1: Grafica de dispersion de tvmarketing.csv.csv.
 
 ![Wine](https://github.com/LuisRosado/Regresiones_2/assets/140114139/47f41bff-873a-4ea4-af5e-f1344096557a)
 
-Figura 4: Grafica de dispersion de winequality.csv.
+Figura 2: Grafica de dispersion de winequality.csv.
 
 Conjunto de datos: Gastos de marketing y ventas
-- Coeficiente de determinaci´on (R²) en el conjunto de entrenamiento:
-0.651 - Coeficiente de determinaci´on (R²) en el conjunto de prueba: 0.623
-- Error absoluto medio (MAE): 1434.29 - Error cuadr´atico medio (MSE):
-3168794.73 - Ra´ız del error cuadr´atico medio (RMSE): 1780.34
+- Coeficiente de determinacion (R²) en el conjunto de entrenamiento: 0.651
+- Coeficiente de determinacion (R²) en el conjunto de prueba: 0.623
+- Error absoluto medio (MAE): 1434.29
+- Error cuadr´atico medio (MSE):3168794.73
+- Raız del error cuadratico medio (RMSE): 1780.34
   
 Conjunto de datos: Calidad del vino tinto
-- Coeficiente de determinaci´on (R²) en el conjunto de entrenamiento:
-0.358 - Coeficiente de determinaci´on (R²) en el conjunto de prueba: 0.328 -
-Error absoluto medio (MAE): 0.545 - Error cuadr´atico medio (MSE): 0.539
-- Ra´ız del error cuadr´atico medio (RMSE): 0.734
+- Coeficiente de determinacion (R²) en el conjunto de entrenamiento: 0.358
+- Coeficiente de determinacion (R²) en el conjunto de prueba: 0.328
+- Error absoluto medio (MAE): 0.545
+- Error cuadratico medio (MSE): 0.539
+- Raız del error cuadratico medio (RMSE): 0.734
